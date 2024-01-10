@@ -1,0 +1,8 @@
+{
+  "name": "Emilie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mimichnvt/generateur-images.git",
+  "author": "Emilie <emilie.chnvt@gmail.com>",
+  "license": "MIT"
+}
